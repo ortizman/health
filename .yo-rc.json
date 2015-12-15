@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "health",
+    "packageName": "org.prueba",
+    "packageFolder": "org/prueba",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "396ed6d076835bd8f99523e054d39d452cac153f",
+    "testFrameworks": [
+      "protractor"
+    ]
+  }
+}
